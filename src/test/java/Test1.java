@@ -1,6 +1,6 @@
 import org.junit.Test;
 
-public class test1 {
+public class Test1 {
 
     @Test
 

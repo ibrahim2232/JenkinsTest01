@@ -125,9 +125,9 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <includes>
-                        <include>test1.java</include>
+                        <include>Test1.java</include>
                         <include>Test2.java</include>
-                        <include>Test3.java</include>
+                        <include>Apijenkins.java</include>
                         <include>Test5.java</include>
                     </includes>
                 </configuration>

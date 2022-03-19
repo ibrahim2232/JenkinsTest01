@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Jenkins.Apijenkins
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.103 s <<< FAILURE! - in Jenkins.Apijenkins
+Jenkins.Apijenkins.apiTest  Time elapsed: 4.015 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<S[ally]> but was:<S[usan]>
+	at Jenkins.Apijenkins.apiTest(Apijenkins.java:38)
+
