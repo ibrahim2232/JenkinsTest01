@@ -1,6 +1,11 @@
+import org.junit.Test;
+
 public class Test2 {
 
-    public static void main(String[] args) {
+   @Test
+           public void test(){
+
+
         System.out.println("Nobody can win any fight without fighting");
     }
 }
